@@ -1,0 +1,19 @@
+.btn-on {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  width: 3rem;
+  font-weight: bold;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+.btn-off {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  width: 3rem;
+  font-weight: bold;
+  margin: 5px;
+  border-radius: 3px;
+}
