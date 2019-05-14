@@ -7,10 +7,10 @@ class LightBulb extends Component{
   render(){
     return(
       <div className="LightBulb">
-      <img src={this.props.info} />
+        <img src={this.props.info} />
       </div>
     );
-  }
+  };
 }
 
 
